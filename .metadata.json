@@ -1,0 +1,10 @@
+[
+  {
+    "package": "devtoolbox",
+    "oncran": true
+  },
+  {
+    "package": "rwa",
+    "oncran": true
+  }
+]
