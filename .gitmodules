@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "devtoolbox"]
-	path = devtoolbox
-	url = https://github.com/martinctc/devtoolbox
-	shallow = true
-	registered = true
 [submodule "rwa"]
 	path = rwa
 	url = https://github.com/martinctc/rwa
